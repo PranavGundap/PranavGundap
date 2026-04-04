@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>→ Strengthening my Python, DSA, and AI fundamentals for exams and practical applications<br><br>👯 I’m looking to collaborate on<br>→ Beginner-friendly Python projects and small AI/ML practice projects<br><br>🤝 I’m looking for help with<br>→ Data Structures & Algorithms, real-world problem solving, and improving coding efficiency<br><br>🌱 I’m currently learning<br>→ Python, Artificial Intelligence concepts, and Quantitative Reasoning<br><br>💬 Ask me about<br>→ Python basics, exam preparation strategies, and simple coding explanations<br><br>⚡ Fun fact<br>→ I prefer simple, easy-to-remember explanations that score full marks in exams 😄
+🔭 I’m currently working on<br>→ Strengthening my Python, DSA, and AI fundamentals for exams and practical applications<br><br>👯 I’m looking to collaborate on<br>→ Beginner-friendly Python projects and small AI/ML practice projects<br><br>🤝 I’m looking for help with<br>→ Data Structures & Algorithms, real-world problem solving, and improving coding efficiency<br><br>🌱 I’m currently learning<br>→ Python, Artificial Intelligence concepts, and Quantitative Reasoning<br><br>💬 Ask me about<br>→ Python basics, exam preparation strategies, and simple coding explanations<br><br>⚡
 
 
 ## 🌐 Socials:
